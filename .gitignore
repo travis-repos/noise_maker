@@ -9,5 +9,4 @@ tmp/*
 *#
 #*
 .yardoc/*
-coverage/*
 .DS_Store
