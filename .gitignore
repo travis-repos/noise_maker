@@ -1,0 +1,13 @@
+.bundle
+.vagrant
+log/*
+tmp/*
+*.box
+*.class
+*.rbc
+*~
+*#
+#*
+.yardoc/*
+coverage/*
+.DS_Store
